@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hieu
-- 👀 I’m interested in ML and anime :D 
-- 🌱 I’m currently learning everything about NLP
+- 👀 I’m interested in ML and DL :D 
+- 🌱 I’m currently learning everything about NLP, RecSys
 - 📫 How to reach me? You can't!
 
 <!---
